@@ -15,7 +15,7 @@ function SidebarMenu() {
         <>
         <Logo/>
 
-        <Stack alignItems='flex-start' sx={{mt:6,ml:4,width:"100%"}} >
+        <Stack alignItems='flex-start' sx={{mt:6,ml:4,width:"100%",height:"100vh"}} >
             <Buttons text="Dashboard" icon={img1}/>
             <Buttons text="All Tickets" icon={img2}/>
             <Buttons text="Chatbots" icon={img3}/>

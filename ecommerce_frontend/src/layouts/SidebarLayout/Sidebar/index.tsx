@@ -10,6 +10,7 @@ function SidebarLayout() {
             <SidebarMenu/>
         </aside>
             <Headers/>
+            <Outlet/>
         </div>
        
        
