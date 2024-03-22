@@ -6,7 +6,8 @@ const Dashboard = () => {
   return (
     <div>
    
-      <Outlet/>
+   
+      
     </div>
   )
 }
